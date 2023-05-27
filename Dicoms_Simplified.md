@@ -4,6 +4,8 @@ Dicom Simplified is an application built with ttkbootstrap that provides a simpl
 
 <img width="452" alt="image" src="https://github.com/PYCAD-Premium/Dicom-Simplified/assets/37108394/98011292-49a4-431e-ae0b-fa979ad6ad9e">
 
+## Where is the code?
+To gain access to this exclusive world of cutting-edge applications, become a Premium Member today. Subscribing to our Premium membership will unlock an ocean of opportunities for innovation and research in medical imaging. To subscribe, follow this link: https://pycad.gumroad.com/l/pycad-premium.
 
 ## Features
 - Visualize DICOM files: Load a DICOM directory and navigate through the slices.
