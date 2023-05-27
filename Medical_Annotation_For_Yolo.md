@@ -6,6 +6,8 @@ NOTE: This repository is part of the PYCAD Premium program. To access the code, 
 
 <img width="547" alt="image" src="https://github.com/PYCAD-Premium/Medical-Annotation-For-Yolo/assets/37108394/4e836b82-f4dc-4460-9eac-c7cdf08a1fa7">
 
+## Where is the code?
+To gain access to this exclusive world of cutting-edge applications, become a Premium Member today. Subscribing to our Premium membership will unlock an ocean of opportunities for innovation and research in medical imaging. To subscribe, follow this link: https://pycad.gumroad.com/l/pycad-premium.
 
 ## Usage
 1. Clone this repository to your local machine:
