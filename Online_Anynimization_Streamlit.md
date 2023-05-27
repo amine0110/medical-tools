@@ -4,6 +4,8 @@ This repository hosts the code for a Streamlit-based web application aimed at me
 
 <img width="878" alt="image" src="https://github.com/PYCAD-Premium/Online-Anynimization-Streamlit/assets/37108394/b0a1704c-ef7b-43c8-944a-a130a7b6b4fb">
 
+## Where is the code?
+To gain access to this exclusive world of cutting-edge applications, become a Premium Member today. Subscribing to our Premium membership will unlock an ocean of opportunities for innovation and research in medical imaging. To subscribe, follow this link: https://pycad.gumroad.com/l/pycad-premium.
 
 ## Features
 1. User Authentication: Secure user authentication system using credentials from a configuration file.
